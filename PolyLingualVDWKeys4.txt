@@ -1,0 +1,48 @@
+0	0.38209
+ 0	1497	0.0631984116574711	telum virgo sagitta mnestheus camilla arcus spiculum altus sono 
+ 1	1634	0.07075929413949207	bow mnestheus maid quiver makes chase hide seeks vigor 
+ 2	1596	0.07162723194125316	mnestheus bow shaft camilla arrows virgin arrow quiver javelins 
+1	0.74584
+ 0	4366	0.0631984116574711	arma equus agmen murus pars acies fero turnus castra 
+ 1	4867	0.07075929413949207	arms war troops turnus fields plain walls foes town 
+ 2	4588	0.07162723194125316	arms war foe turnus walls plain close men host 
+2	0.62671
+ 0	3401	0.0631984116574711	aurum aeneas omnis ascanius puer primus donum socius laetus 
+ 1	3587	0.07075929413949207	gold golden rest ascanius purple grace chief view order 
+ 2	3393	0.07162723194125316	aeneas gold fair gifts gift ascanius iulus gave purple 
+3	0.49926
+ 0	2525	0.0631984116574711	silva vates nemus mons locus lucus latus ingens ramus 
+ 1	2583	0.07075929413949207	flood view god grove stygian deep lake woods shades 
+ 2	2618	0.07162723194125316	grove dark cave groves gloom river song wood wave 
+4	0.49262
+ 0	2406	0.0631984116574711	ara sacer sol centum dico litus pecus sacerdos mos 
+ 1	2685	0.07075929413949207	hundred rites high altar wine sacrifice sun holy crownd 
+ 2	2715	0.07162723194125316	sacred hundred altars feast wine shade brow brows strange 
+5	0.51971
+ 0	3030	0.0631984116574711	unda litus aequor ventus mare classis navis pelagus puppis 
+ 1	3193	0.07075929413949207	shore sea seas main ships shores land fleet oars 
+ 2	3094	0.07162723194125316	sea ships shore waves seas fleet ship wave waters 
+6	0.46687
+ 0	2579	0.0631984116574711	bellum rex latinus turnus gens foedus vinco populus nomen 
+ 1	2821	0.07075929413949207	war peace latian turnus command crown wars hate line 
+ 2	2653	0.07162723194125316	war turnus king latinus peace proud latium sword kingly 
+7	0.39915
+ 0	1834	0.0631984116574711	danai priamus limen troia graecus miser maneo argus arx 
+ 1	1978	0.07075929413949207	troy grecian gate fatal greeks priams grecians proud hopes 
+ 2	2029	0.07162723194125316	troy greeks priam achilles fall greek priams ulysses false 
+8	1.20642
+ 0	6516	0.0631984116574711	caelum omnis video superus altus aura ignis do nox 
+ 1	6922	0.07075929413949207	eyes skies sight fly night flies thro flight trembling 
+ 2	6655	0.07162723194125316	air deep loud eyes heaven huge wide round night 
+9	0.75936
+ 0	4299	0.0631984116574711	mors amor eo umbra multus miser video solus lacrima 
+ 1	4685	0.07075929413949207	love eyes soul tears death life breast unhappy bed 
+ 2	4413	0.07162723194125316	death thee heart woe life thou eyes love tears 
+10	2.17659
+ 0	12337	0.0631984116574711	magnus do nunc deus urbs talis aeneas pater omnis 
+ 1	13071	0.07075929413949207	fate gods trojan heavn son thou long fame care 
+ 2	12771	0.07162723194125316	thou thee gods son power land king sire aeneas 
+11	0.79469
+ 0	5599	0.0631984116574711	telum corpus manus hasta dextera ensis do nunc vulnus 
+ 1	6402	0.07075929413949207	hand ground fight blood shield vain wound sword arms 
+ 2	5972	0.07162723194125316	hand sword spear shield aeneas back death swift side 

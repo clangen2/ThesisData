@@ -1,0 +1,48 @@
+0	0.57588
+ 0	2877	0.059905435117506026	ara sacer magnus tempus dies templum voco primus sol 
+ 1	3174	0.0656727405035547	holy sacred day god hands altars wine rites sun 
+ 2	3057	0.0662144414752054	sacred altars due free place fair altar phoebus wine 
+1	0.62509
+ 0	3168	0.059905435117506026	aurum aeneas fero primus donum omnis puer eo iulus 
+ 1	3341	0.0656727405035547	gold golden purple young rest head youth amidst ascanius 
+ 2	3178	0.0662144414752054	aeneas gold fair gifts gave bade sire golden bore 
+2	1.45513
+ 0	8524	0.059905435117506026	aeneas nunc animus tuus tantus eo talis do for 
+ 1	8999	0.0656727405035547	thou son mind love life care arms trojan eyes 
+ 2	8929	0.0662144414752054	thou thee son aeneas heart eyes spoke yon life 
+3	0.80426
+ 0	4175	0.059905435117506026	caelum altus aura volo terra ater torqueo volvo magnus 
+ 1	4507	0.0656727405035547	flight skies sight sky fly air heavn flies eyes 
+ 2	4344	0.0662144414752054	air heaven deep swift sky fly loud high jove 
+4	0.54262
+ 0	2685	0.059905435117506026	silva ingens nemus lucus mons locus amnis ripa fero 
+ 1	2867	0.0656727405035547	thro flood ground woods wood sound stood grove stygian 
+ 2	2724	0.0662144414752054	grove wide dark hills cave groves wave stream stygian 
+5	0.5547
+ 0	3138	0.059905435117506026	litus unda aequor ventus mare classis fluctus pelagus puppis 
+ 1	3385	0.0656727405035547	shore sea seas main ships shores land winds oars 
+ 2	3359	0.0662144414752054	shore sea ships seas waves land ship wave waters 
+6	0.70036
+ 0	3635	0.059905435117506026	nox video lumen ignis omnis flamma danai lux domus 
+ 1	3920	0.0656727405035547	night death light eyes fatal flames thro dire sleep 
+ 2	3868	0.0662144414752054	night dark fire lay flame death till woe fled 
+7	0.48054
+ 0	2096	0.059905435117506026	hinc gens genus nomen nunc arx altus centum populus 
+ 1	2382	0.0656727405035547	race line sire fame ancient hundred long born world 
+ 2	2214	0.0662144414752054	proud great sons hundred race power world abode earth 
+8	0.77944
+ 0	5106	0.059905435117506026	telum corpus vir manus multus ingens vulnus ensis hasta 
+ 1	5790	0.0656727405035547	hand blood ground wound force thro sword shield vain 
+ 2	5454	0.0662144414752054	sword spear hand fell shield death ground head strong 
+9	0.51943
+ 0	2331	0.059905435117506026	porta omnis moenia murus pars urbs vir paro tectum 
+ 1	2476	0.0656727405035547	walls evry gate high throng town part lofty takes 
+ 2	2400	0.0662144414752054	walls gates wall long mnestheus gate tower citadel hurl 
+10	1.28573
+ 0	7191	0.059905435117506026	urbs bellum rex res fatum do deus magnus troia 
+ 1	7631	0.0656727405035547	gods fate heavn war troy peace town race land 
+ 2	7397	0.0662144414752054	king gods ye troy war sire heaven power made 
+11	0.85665
+ 0	5463	0.059905435117506026	arma turnus equus manus campus agmen do primus acies 
+ 1	5956	0.0656727405035547	arms turnus war fight field troops plain foes fields 
+ 2	5573	0.0662144414752054	turnus arms war foe aeneas hand line field warriors 

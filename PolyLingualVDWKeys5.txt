@@ -1,0 +1,48 @@
+0	0.58725
+ 0	2940	0.06263555598176536	miser mors corpus lacrima anima vita relinquo poena vir 
+ 1	3306	0.06909367209544849	death tears blood unhappy hair dead friends limbs ghost 
+ 2	3124	0.07034830218525488	death eyes woe tears life slain cold doom tomb 
+1	0.79773
+ 0	5013	0.06263555598176536	arma turnus agmen murus rutulus campus ferrum latinus bellum 
+ 1	5580	0.06909367209544849	turnus arms war foes fight fields field troops plain 
+ 2	5269	0.07034830218525488	turnus war arms foe sword host warriors walls plain 
+2	0.64536
+ 0	3212	0.06263555598176536	nox silva umbra dico locus vox nemus longus somnus 
+ 1	3524	0.06909367209544849	night flood light shades ground sleep holy thro sacred 
+ 2	3311	0.07034830218525488	dark night grove shade deep lay cave groves huge 
+3	0.48936
+ 0	2216	0.06263555598176536	amor cura soror regina iuno dido totus mens venus 
+ 1	2471	0.06909367209544849	queen love bed heart secret anxious sister rage juno 
+ 2	2427	0.07034830218525488	queen love breast sister dido joy juno tyrian knew 
+4	0.38675
+ 0	1804	0.06263555598176536	danai primus priamus troia graecus euryalus achilles nisus ara 
+ 1	1917	0.06909367209544849	troy grecian greeks grecians nisus priams made priam raisd 
+ 2	1872	0.07034830218525488	greeks achilles priam euryalus nisus greek priams ulysses fall 
+5	0.68094
+ 0	3767	0.06263555598176536	bellum rex gens regnum urbs nomen genus terra iuppiter 
+ 1	4075	0.06909367209544849	land peace command race king latian war foreign fame 
+ 2	3938	0.07034830218525488	king war land proud peace sons italy people world 
+6	0.67858
+ 0	4754	0.06263555598176536	telum hasta corpus pectus ensis medius dextera vir vis 
+ 1	5359	0.06909367209544849	hand ground fight vain head wound shield spear blood 
+ 2	4993	0.07034830218525488	spear hand fell full shield ground swift sword back 
+7	0.69086
+ 0	3834	0.06263555598176536	aeneas aurum primus fero donum ara mater omnis fundo 
+ 1	4077	0.06909367209544849	golden gold purple rest crownd ascanius wine prince trojan 
+ 2	3911	0.07034830218525488	aeneas fair gold sacred gifts bade gave round golden 
+8	0.34445
+ 0	1460	0.06263555598176536	limen centum ingens geminus qualis sedeo superbus domus insignis 
+ 1	1559	0.06909367209544849	hundred gate brazen gold temple brass snakes limbs set 
+ 2	1505	0.07034830218525488	hundred bronze doors beneath triple jove brass cyclops twin 
+9	2.32384
+ 0	12795	0.06263555598176536	magnus do deus omnis nunc pater fero video aeneas 
+ 1	13551	0.06909367209544849	fate gods trojan thou heavn son care arms hands 
+ 2	13430	0.07034830218525488	thou thee heart gods aeneas son ye sire heaven 
+10	0.57525
+ 0	3162	0.06263555598176536	litus unda aequor ventus mare classis socius fluctus pelagus 
+ 1	3374	0.06909367209544849	shore sea seas main ships land shores fleet oars 
+ 2	3280	0.07034830218525488	shore sea ships waves seas wave ship fleet waters 
+11	0.98469
+ 0	5432	0.06263555598176536	caelum omnis do altus fero ingens saxum clamor superus 
+ 1	5635	0.06909367209544849	force eyes flight sound skies side haste cries thro 
+ 2	5437	0.07034830218525488	air wide loud strong heaven swift round deep eyes 

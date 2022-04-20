@@ -1,0 +1,48 @@
+0	0.46899
+ 0	2320	0.06284091864975705	amor soror dido regina cura pectus iuno totus mens tyrius coniunx infelix demitto primum primus malum flamma superbus dulcis 
+ 1	2478	0.06975824487653116	love queen breast court heart secret sister grief rage bed juno shame part woes guest tyrian dido flame despair 
+ 2	2440	0.07129827784416976	love queen sister dido tyrian juno long woe breast alien fire cruel knew spouse mad body mothers fatal cold 
+1	1.26224
+ 0	7067	0.06284091864975705	altus video caelum do omnis medius superus volo fero aura latus clamor circum ago animus tectum flamma vir magnus 
+ 1	7636	0.06975824487653116	thro eyes high force fly sight ground flight flies side skies trembling sound cries hands fury sky fear flames 
+ 2	7203	0.07129827784416976	air wide side strong loud swift round fled high fly earth path huge sky lay gave vast full called 
+2	0.42257
+ 0	2022	0.06284091864975705	troia limen danai priamus porta arx murus graecus argus duco patrius ara pergama achilles pando scelus primus credo hector 
+ 1	2236	0.06975824487653116	grecian troy fatal gate town made greeks priams grecians raisd priam pile brought ruind achilles pyrrhus guide brazen toils 
+ 2	2237	0.07129827784416976	troy greeks priam greek citadel achilles priams gates fierce beauteous ulysses ilium shore crime gate head greece pyrrhus fall 
+3	0.80045
+ 0	4490	0.06284091864975705	urbs bellum gens rex regnum terra genus nomen res fatum iuppiter nunc populus hinc imperium italia latinus magnus ago 
+ 1	4987	0.06975824487653116	race war peace command land gods latian king place heavn state jove people royal seek foreign fair lands born 
+ 2	4829	0.07129827784416976	king war land power proud italy peace sons sire city throne latinus world people found sires race jove kings 
+4	0.39182
+ 0	1665	0.06284091864975705	virgo telum sagitta mnestheus accipio iuvenis arcus pes celer mons spiculum camilla sono pharetra tegmen pariter volucer ascanius fremo 
+ 1	1779	0.06975824487653116	bow train mnestheus chase join quiver leaves bend vigor hide young makes lycian arrow back maid fame chief hold 
+ 2	1738	0.07129827784416976	bow mnestheus shaft ye arrow warrior bring arrows camilla shoulder steed virgin quiver keen royal barb shafts bred maid 
+5	0.62817
+ 0	4051	0.06284091864975705	corpus vir ingens ensis hasta vis telum clipeus vulnus multus caput nunc victor pallas dextera rapio galea latus morior 
+ 1	4553	0.06975824487653116	hand wound sword head shield spear body plain blood vain breast persnamepallaspersname ground lance piercd fell threw slain victor 
+ 2	4338	0.07129827784416976	spear shield sword hand pallas fell left head wound back pierced ground youth slain euryalus breast nisus prize death 
+6	0.77988
+ 0	4186	0.06284091864975705	aeneas fero aurum donum primus omnis magnus ara laetus anchises duco sacer pater munus aureus honor iubeo puer mos 
+ 1	4477	0.06975824487653116	gold golden sacred rest rites ascanius purple rising day wine trojan sun great thro ground grace race holy crownd 
+ 2	4273	0.07129827784416976	aeneas gold fair sacred bade gifts gift golden altars good brow anchises high green due purple gave stream acestes 
+7	0.47855
+ 0	2068	0.06284091864975705	nox umbra ignis somnus lumen ater facies labor monstrum dirus iuxta domus tenuis luna attollo praeda corpus rapio forma 
+ 1	2261	0.06975824487653116	night light sleep limbs silent stars thousand day ears infernal waters close lies snakes avenging hundred furies forms skies 
+ 2	2148	0.07129827784416976	night dark heaven men gloom sleep slumber foul stars hundred shapes morn feast monster huge voice strange hunger couch 
+8	0.76676
+ 0	4834	0.06284091864975705	arma turnus equus manus teucrus latinus acies alius bellum agmen contra murus campus hostis ferrum castra pugna rutulus currus 
+ 1	5517	0.06975824487653116	arms war turnus fight field foes troops hand fierce plain equal force town trojans fields horse aeneas king foe 
+ 2	5064	0.07129827784416976	turnus arms war foe aeneas warriors sword host fight battle field line men steeds plain bold brave chariot array 
+9	2.03232
+ 0	12067	0.06284091864975705	do omnis magnus deus tantus tuus talis fero os animus video aeneas nunc pater noster for venio arma vox 
+ 1	12599	0.06975824487653116	fate gods thou trojan son death care mind blood life eyes arms bear thee long heavn vain friends fortune 
+ 2	12464	0.07129827784416976	thou thee heart gods son heaven aeneas eyes death ye spoke hand yon made sire behold god trojan soul 
+10	0.54547
+ 0	3128	0.06284091864975705	litus unda aequor ventus mare navis fluctus classis socius puppis pelagus portus peto remus velum pontus teneo ratis fessus 
+ 1	3263	0.06975824487653116	shore sea seas main land ships winds shores fleet oars watry waves billows rocks sails crew navy length trojan 
+ 2	3140	0.07129827784416976	shore ships sea waves seas ship fleet land wave sail men waters oars winds sped haven rock long care 
+11	0.49324
+ 0	2491	0.06284091864975705	silva locus nemus lucus mons dico vates ingens ripa ramus frons amnis antrum procul saxum tellus erro cerno cano 
+ 1	2642	0.06975824487653116	flood god woods wood grove led sacred shades stands lake holy mountains forest hills trees stygian food cave thick 
+ 2	2623	0.07129827784416976	grove deep dark hill cave song groves wide hills wood river sound rivers mountain oak tree stygian plain leaves 

@@ -1,0 +1,48 @@
+0	1.01372
+ 0	5495	0.06073546407321432	altus video do fero aura caelum omnis volo clamor 
+ 1	5846	0.06733826923345644	flight eyes fly flies rage train stood cries trembling 
+ 2	5669	0.06970030132080446	air swift loud side earth high round full fly 
+1	0.46177
+ 0	2188	0.06073546407321432	amor soror dido cura venus regina dolor pectus tyrius 
+ 1	2469	0.06733826923345644	queen love bed flame grief juno breast sister anxious 
+ 2	2366	0.06970030132080446	queen love sister dido tyrian breast venus hast shade 
+2	0.83475
+ 0	4669	0.06073546407321432	turnus arma murus primus agmen omnis acies rutulus manus 
+ 1	5333	0.06733826923345644	war turnus arms fight foes troops fields field town 
+ 2	4917	0.06970030132080446	turnus war arms foe host sword men field close 
+3	0.67463
+ 0	3861	0.06073546407321432	bellum rex gens urbs regnum genus nomen terra latinus 
+ 1	4223	0.06733826923345644	war land king race peace command state latian line 
+ 2	4033	0.06970030132080446	king proud war land sons power peace throne royal 
+4	0.61445
+ 0	2900	0.06073546407321432	nox silva umbra caelum lumen locus via nemus somnus 
+ 1	3070	0.06733826923345644	night light thro woods wood shades flood sleep face 
+ 2	2954	0.06970030132080446	night dark stream grove deep aeneas light lay wide 
+5	0.67337
+ 0	4354	0.06073546407321432	hasta ingens telum vir vulnus longus ensis corpus dextera 
+ 1	5056	0.06733826923345644	hand head blood wound sword ground shield vain fight 
+ 2	4591	0.06970030132080446	hand spear shield sword fell foe slain death head 
+6	0.4597
+ 0	1978	0.06073546407321432	ingens saxum mons ignis limen flamma immanis antrum moles 
+ 1	2218	0.06733826923345644	high rock sides limbs hissing gate rocks mountains hero 
+ 2	2110	0.06970030132080446	cave vast tall huge gate crag doors flames monster 
+7	0.63273
+ 0	3305	0.06073546407321432	miser mors video lacrima danai multus maestus priamus heu 
+ 1	3603	0.06733826923345644	death fatal tears unhappy state dead ghost despair funral 
+ 2	3587	0.06970030132080446	death woe tears doom life greeks till sons priam 
+8	0.57012
+ 0	3257	0.06073546407321432	litus unda aequor mare ventus navis pelagus fluctus puppis 
+ 1	3441	0.06733826923345644	shore sea seas main ships shores land winds waves 
+ 2	3373	0.06970030132080446	shore sea ships waves seas ship wave land fleet 
+9	0.57563
+ 0	2900	0.06073546407321432	ara sacer cano templum magnus dies dico geminus pater 
+ 1	3116	0.06733826923345644	ground sacred rites high god altars wine led fire 
+ 2	2995	0.06970030132080446	sacred altars shade green made phoebus hundred feast great 
+10	0.60075
+ 0	3280	0.06073546407321432	aurum puer aeneas primus donum fero laetus iuvenis umerus 
+ 1	3362	0.06733826923345644	gold golden rest young prize chief grace purple rich 
+ 2	3316	0.06970030132080446	gold aeneas good youth gifts fair throng gave ascanius 
+11	2.17065
+ 0	12202	0.06073546407321432	magnus nunc do aeneas deus omnis talis pater animus 
+ 1	12691	0.06733826923345644	fate gods trojan thou son arms care heavn mind 
+ 2	12586	0.06970030132080446	thou thee heart gods aeneas sire ye eyes son 

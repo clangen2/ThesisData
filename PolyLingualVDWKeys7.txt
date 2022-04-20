@@ -1,0 +1,48 @@
+0	0.80977
+ 0	4847	0.060569587910149464	arma turnus bellum dextera latinus acies ferrum rutulus manus teucrus agmen tollo castra pallas totus contra pugna iuvenis hostis 
+ 1	5423	0.0675887018805051	arms war turnus fight field foes troops hand fields force youth rest fire latian persnamepallaspersname equal bear fierce plain 
+ 2	4980	0.06859991654673098	arms war turnus foe sword pallas fight hand host field plain battle warriors steel line brave give trojans array 
+1	0.69058
+ 0	4771	0.060569587910149464	telum corpus hasta ingens vis ensis vulnus victor longus ferrum pectus multus umerus manus adversus rapio hostis magnus fugio 
+ 1	5302	0.0675887018805051	ground blood vain wound hand spear shield sword plain body foe thro breast back flying slain piercd drew prize 
+ 2	5062	0.06859991654673098	spear death shield fell sword hand ground back ran hurled slain spears head wound heart cried side shaft strong 
+2	0.41104
+ 0	1721	0.060569587910149464	equus currus sequor campus insignis messapus pars cursus arvum centum iugum fortis premo iuventus vel nomen tegmen seco rota 
+ 1	1982	0.0675887018805051	led chariot coursers steeds horse horses train messapus bore warlike reins plains afar brazen prepard fierce ready foot hundred 
+ 2	1876	0.06859991654673098	steeds chariot rode bold warrior messapus horses hundred men left flung steed shield car rein proud captains javelins wave 
+3	0.5308
+ 0	3065	0.060569587910149464	litus unda aequor classis mare ventus fluctus pelagus socius puppis navis portus peto remus velum longus cursus scopulus pontus 
+ 1	3229	0.0675887018805051	shore sea seas main land ships fleet oars waves shores winds coast watry billows rise sails equal crew navy 
+ 2	3224	0.06859991654673098	sea shore waves seas ships ship land fleet wave sped waters long sail men oars haven stars winds safe 
+4	0.72801
+ 0	4100	0.060569587910149464	urbs gens rex regnum genus bellum nomen terra res iuppiter hinc populus latinus caelum magnus pax imperium fama divus 
+ 1	4406	0.0675887018805051	command land war king state peace race latian fates queen foreign mighty seek jove people towrs native world lands 
+ 2	4345	0.06859991654673098	land king proud people war jove world power throne italy peace sons royal race found great hills juno sires 
+5	0.40641
+ 0	1958	0.060569587910149464	troia danai priamus arma graecus arx ignis parvus maneo achilles argus scelus coniunx traho pergama sedes hector ultro miser 
+ 1	2038	0.0675887018805051	troy grecian death fatal greeks raisd walls priams grecians good priam wretched brought ruind achilles make made pyrrhus held 
+ 2	2062	0.06859991654673098	troy greeks priam achilles greek sons fell bore priams wife ulysses ilium gates iliums crime fall greece citadel troys 
+6	0.46867
+ 0	2259	0.060569587910149464	porta moenia telum murus urbs virgo primus agmen pars sagitta animus medius omnis mater mons limen sono latus camilla 
+ 1	2374	0.0675887018805051	gate town bow part trojans maid mnestheus throng walls wall gates speed stand young train towr quiver liquid amidst 
+ 2	2278	0.06859991654673098	virgin walls gates mnestheus tower bow gate golden camilla arrows moved women shafts wall calls threshold quiver chase high 
+7	0.55896
+ 0	2867	0.060569587910149464	nox silva procul nemus locus lucus umbra labor ripa amnis via vates lumen antrum ramus fluvius ater limen corpus 
+ 1	3082	0.0675887018805051	night wood deep woods sleep limbs air light god grove shades hero view silent souls found rocks bears lay 
+ 2	2992	0.06859991654673098	dark grove deep night lay cave gloom path wood made groves slumber strange beam free task heaven stygian tree 
+8	0.69992
+ 0	3944	0.060569587910149464	aurum fero laetus ara donum longus aeneas honor alius geminus magnus pater munus primus eo templum sacer aureus anchises 
+ 1	4249	0.0675887018805051	gold day trojan rest golden rising crownd purple ground rites divine sacred wine grace holy prince place god round 
+ 2	4119	0.06859991654673098	gold sacred aeneas fair bright gifts gave anchises golden gift bade brow round green due feast good shade lofty 
+9	0.63357
+ 0	3341	0.060569587910149464	amor miser cura pectus lacrima soror dolor heu umbra regina novus mors dido vita funus maestus coniunx infelix eo 
+ 1	3722	0.0675887018805051	love queen unhappy death night tears bed grief despair fire dead secret hair funral lord eyes ghost breast cruel 
+ 2	3563	0.06859991654673098	death love queen woe tears breast cruel grief sister sweet dido sad heart doom sorrow fond mothers farewell till 
+10	2.10716
+ 0	11713	0.060569587910149464	do deus magnus aeneas nunc omnis talis dico os tantus tuus animus pater video fatum dictum fero sequor for 
+ 1	12374	0.0675887018805051	fate gods trojan thou son heavn thro care long fame life arms mind thee god fortune friends vain great 
+ 2	12151	0.06859991654673098	thou thee gods aeneas son ye sire heart eyes spoke power trojan divine heaven god day behold hands words 
+11	1.06508
+ 0	5803	0.060569587910149464	omnis caelum do video altus superus volo clamor turbo aura fero ingens saxum ignis aether latus mons oculus qua 
+ 1	6247	0.0675887018805051	eyes skies force sight flight flies fly haste trembling flood thro high face loud flames head cries fear sound 
+ 2	5845	0.06859991654673098	air wide loud huge swift round fire high sky heaven flew wild fly fled lifted vast winds flame strong 

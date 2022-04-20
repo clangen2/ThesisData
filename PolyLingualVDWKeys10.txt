@@ -1,0 +1,48 @@
+0	0.63021
+ 0	2934	0.06192064093942997	silva locus ingens procul nemus vates cano lucus amnis dico flumen domus latus pecus umbra primus ramus ripa frons 
+ 1	3120	0.06750110590613108	sacred holy flood wood god thro shades ground air woods grove bears stood shade souls view stands sacrifice found 
+ 2	2971	0.07060965844466938	grove sacred dark wide shade deep song groves free cave hill phoebus path dread wave stygian tree wood river 
+1	0.85548
+ 0	4319	0.06192064093942997	caelum omnis ignis ater do nox aura flamma mons altus video saxum ira volvo verto saevus aether labor lumen 
+ 1	4570	0.06750110590613108	night skies heavn clouds light loud flight sky flames high aloft wings haste eyes fury thrice cloud flies evry 
+ 2	4428	0.07060965844466938	heaven night loud air fire deep sky earth high cloud jove vast till times eye light beneath called flame 
+2	0.79371
+ 0	4668	0.06192064093942997	arma turnus bellum primus teucrus latinus manus pugna rutulus acies contra pallas multus urbs murus castra totus vir rex 
+ 1	5219	0.06750110590613108	arms war turnus fight foes field hand force trojans fierce equal king walls peace youth town latian fields persnamepallaspersname 
+ 2	4870	0.07060965844466938	war turnus arms sword fight pallas foe close battle brave warriors king trojan walls host hand men rage ye 
+3	2.11061
+ 0	11623	0.06192064093942997	deus do omnis magnus video fero aeneas talis animus pater dico nunc tantus tuus sequor noster dictum for natus 
+ 1	12342	0.06750110590613108	fate gods thou trojan son long thro mind heavn bear life care great hands queen face fortune aeneas thee 
+ 2	12109	0.07060965844466938	thou thee heart gods aeneas son eyes sire spoke made day heaven ye power hands divine god father behold 
+4	0.68445
+ 0	3809	0.06192064093942997	aurum aeneas primus omnis donum pater eo laetus magnus iuvenis simul puer honor fero munus facio aureus accipio anchises 
+ 1	4033	0.06750110590613108	gold golden rest purple trojan ascanius round prize day young prince crownd rising hero bow wine fed stand fair 
+ 2	3907	0.07060965844466938	gold aeneas fair golden gift gifts round bade good iulus arms purple throng altars bring green acestes wine sire 
+5	0.55124
+ 0	3255	0.06192064093942997	litus unda aequor classis socius ventus mare navis fluctus puppis pelagus remus portus saxum velum teneo pontus longus cursus 
+ 1	3470	0.06750110590613108	shore sea seas main ships shores winds land waves fleet oars billows watry coast wind rocks fly run sails 
+ 2	3421	0.07060965844466938	shore sea ships waves seas ship land wave fleet winds waters sail oars wind wide haven stars flood past 
+6	0.69771
+ 0	3841	0.06192064093942997	gens regnum rex urbs bellum iuppiter genus nomen res terra populus imperium fatum hinc italia italus pax latium latinus 
+ 1	4070	0.06750110590613108	land command race fame trojan latian peace king throne foreign powr people ancient reign line men lands world war 
+ 2	3979	0.07060965844466938	proud king land power people throne sons great race peace world sires italy bear hundred daughter kings sacred ancient 
+7	0.45353
+ 0	2206	0.06192064093942997	danai limen troia porta priamus moenia patrius murus arx fero templum primus parvus pergama addo argus duco quoque graecus 
+ 1	2366	0.06750110590613108	troy grecian town walls gate greeks grecians gates temple fatal priams brought priam sacred pass defense wretched raisd night 
+ 2	2459	0.07060965844466938	troy greeks priam achilles gates greek walls fierce priams sons citadel vast ulysses gate hearth temple iliums band fell 
+8	0.47526
+ 0	2301	0.06192064093942997	equus agmen currus arma campus superus tyrrhenus omnis virgo pars latus sequor messapus iugum iuventus camilla mezentius spumo verto 
+ 1	2587	0.06750110590613108	troops train horse tuscan chariot coursers led leads horses plain armd messapus speed steed steeds throng appears plains mezentius 
+ 2	2357	0.07060965844466938	steeds chariot bold line arms tuscan messapus mezentius horses legions troop field plain rode steed camilla ranks flood hills 
+9	0.94387
+ 0	6158	0.06192064093942997	telum altus manus corpus medius ingens fero hasta ferrum ensis nunc vis clamor vulnus dextera hostis caput pectus clipeus 
+ 1	6781	0.06750110590613108	vain ground hand head wound sword plain side blood spear thro body shield death back stood breast fear flying 
+ 2	6431	0.07060965844466938	spear shield hand fell full sword steel round swift death cried air left flew wild foe foes hurled head 
+10	0.41244
+ 0	1871	0.06192064093942997	immanis vastus tergum magnus attollo taurus primum iuvencus cornu ingens pes curvus intus cunctus arduus daps pendeo superbus cantus 
+ 1	2072	0.06750110590613108	dares heads brass makes horns bull fills monster hands chief ample blows food toils stands vast sevn forcd added 
+ 2	2013	0.07060965844466938	made giant huge hung dares bull side hercules brow tall bulls teeth monster monstrous breathed lift laid brows filled 
+11	0.62572
+ 0	3404	0.06192064093942997	amor miser multus lacrima os vita dolor cura maestus soror umbra poena quaero mater urbs fama heu novus eo 
+ 1	3798	0.06750110590613108	death tears eyes love unhappy bed view dead ghost hair grief despair blood secret funral care sister flame dire 
+ 2	3552	0.07060965844466938	death woe love tears queen grief life cruel sorrow sweet slain cold dido sister virgin grave bear knew farewell 

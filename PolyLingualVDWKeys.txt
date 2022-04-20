@@ -1,0 +1,48 @@
+0	0.64375
+ 0	3589	0.0627377334131755	miser ignis amor danai mens mors priamus soror fatum lacrima poena flamma maestus crudelis coniunx infelix tectum heu limen 
+ 1	3734	0.0675887961093915	death love tears fatal fire bed queen eyes dead rage state cruel hair town despair grief unhappy ghost sister 
+ 2	3767	0.06935029501753559	death love tears woe queen grief sister soul sweet cruel priam fell knew kin city priams ceased greek deed 
+1	0.57999
+ 0	2824	0.0627377334131755	ara dico sacer silva nemus vates lucus phoebus limen ingens sacerdos frons vis sedes ramus amnis locus templum venio 
+ 1	3123	0.0675887961093915	sacred holy ground god altars rites temple love grove sacrifice altar wood lake human led stands shade part hills 
+ 2	2990	0.06935029501753559	grove sacred phoebus dark shade made altar altars drew shrine groves divine offering free dread cave hill hills song 
+2	0.4097
+ 0	1898	0.0627377334131755	equus currus fero virgo cursus levis sagitta silva arcus habena camilla spiculum pariter caterva pharetra frenum albus nudus forte 
+ 1	2045	0.0675887961093915	chariot bow horses coursers plain train steed maid side bend plains horse chase quiver virgin steeds reins lofty bends 
+ 2	2095	0.06935029501753559	steeds chariot bow rode car warrior shaft virgin wild javelins camilla arrow arrows quiver wore steed maid phrygian horses 
+3	0.4377
+ 0	1905	0.0627377334131755	pallas victor iuvenis socius primus evander euryalus nisus amicus spolium corpus insignis mezentius relinquo teneo induo magnus rex labor 
+ 1	2169	0.0675887961093915	youth friend persnamepallaspersname crowd spoils prize sire nisus victor gore young mezentius equal corpse unhappy euryalus proud lausus lies 
+ 2	2064	0.06935029501753559	pallas youth slain arms young spoil euryalus mezentius nisus prize friend helm evander fall cut gave evanders lausus victorious 
+4	2.34023
+ 0	12425	0.0627377334131755	do magnus deus nunc video talis aeneas omnis os pater animus tantus terra tuus eo fero noster dictum for 
+ 1	13118	0.0675887961093915	fate gods trojan heavn thou son arms care thro hands friends life bear long fame fortune place earth mind 
+ 2	12809	0.06935029501753559	thou thee gods heart son sire trojan aeneas troy heaven ye eyes spoke day power hand yon give behold 
+5	0.58151
+ 0	3368	0.0627377334131755	litus unda aequor mare ventus classis socius do pelagus puppis fluctus navis remus teneo portus cursus velum peto ingens 
+ 1	3458	0.0675887961093915	shore sea main seas ships land shores winds fleet oars billows waves watry passage sails coast crew vessels run 
+ 2	3471	0.06935029501753559	sea shore ships waves seas wave ship waters fleet land winds bade sail sped oars haven wind safe stars 
+6	0.67479
+ 0	3838	0.0627377334131755	bellum gens rex nomen regnum urbs genus res populus imperium arx fatum vir pax hinc equidem iuppiter italus latinus 
+ 1	4143	0.0675887961093915	land war command peace race latian state people foreign seek ancient hate future calld reign world men born laws 
+ 2	4057	0.06935029501753559	king war proud land italy throne world power peace race city people found sires vast latinus kings sacred sons 
+7	0.90317
+ 0	4698	0.0627377334131755	omnis caelum volo altus clamor saxum mons superus video ater turbo aether ruo totus fero volvo ira aura ala 
+ 1	5264	0.0675887961093915	eyes thro skies flight stood fly side flies sound sky clouds force high evry aloft deep cries hollow loud 
+ 2	4899	0.06935029501753559	wide deep loud air swift side huge fly till high sky flew rage long ran thrust round cloud tall 
+8	0.49258
+ 0	2207	0.0627377334131755	nox umbra somnus lumen ignis domus video corpus ater dirus pecus labor saevus stygius iter vita addo membrum caelum 
+ 1	2338	0.0675887961093915	night light sleep limbs dark stygian stars thousand found pains air infernal ghosts guide silent skies breath sees beasts 
+ 2	2292	0.06935029501753559	night dark stars lay gloom sleep heaven silent stygian slumber vast shapes beam foul light ghosts monster wings hunger 
+9	0.86531
+ 0	5246	0.0627377334131755	telum corpus medius ferrum hasta vulnus vir altus longus dextera ensis multus ingens fugio arma rapio pectus vis tendo 
+ 1	5816	0.0675887961093915	hand ground blood sword wound shield death vain head force spear body fight breast fell fatal field plain flying 
+ 2	5504	0.06935029501753559	hand spear fell shield ground sword aeneas death back full foe hurled left steel spears head wound cried vain 
+10	0.74855
+ 0	4592	0.0627377334131755	turnus arma manus bellum agmen murus latinus acies primus campus teucrus rutulus hostis castra pars totus alius moenia mars 
+ 1	5018	0.0675887961093915	war turnus arms fight troops foes fields king town latian fierce field rage trojans walls tuscan meet peace plain 
+ 2	4681	0.06935029501753559	turnus war arms host foe line warriors sword fight close gates plain brave battle field bold wall men trojans 
+11	0.71421
+ 0	3799	0.0627377334131755	aeneas aurum primus omnis magnus honor puer anchises fero laetus tectum alius donum sol iulus munus parens geminus longus 
+ 1	4202	0.0675887961093915	gold golden trojan day purple aeneas rising great appears rest young fair long crownd shining sun order round light 
+ 2	3868	0.06935029501753559	aeneas gold fair gifts golden stream bright anchises iulus gift good ascanius green purple round lofty set gave great 
